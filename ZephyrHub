@@ -1,3 +1,5 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptFinderV1/F/refs/heads/main/obfuscated_CVUg9F2OMOhv6esbVOi3LuVQN4EIJaV3qW7UGSmWFObJdizWdjEGqPN0Pllr87GMCXFQO.lua.txt"))()
+
+loadstring(game:HttpGet("https://pastefy.app/WhU1unsF/raw"))()
+
 
 
